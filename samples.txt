@@ -1,0 +1,7 @@
+Condition Sample
+Control DC_2.sf
+Control DC_23.sf
+Control DC_5.sf
+FSN2QEPIA fsn2qepia_20.sf
+FSN2QEPIA fsn2qepia_21.sf
+FSN2QEPIA fsn2qepia_28.sf
